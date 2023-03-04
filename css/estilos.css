@@ -7,6 +7,23 @@ body
     margin:0;
     paddin: 0;
 }
+
+#cabecera
+{
+    background: #33A;
+    color: white;
+    margin: 0;
+    padding: 0.5;
+
+}
+
+
+
+
+
+
+
+
 #container
 {
     width: 70%;
